@@ -21,4 +21,4 @@ This is a simple CRUD (Create, Read, Update, Delete) Notes App built using PHP. 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/php-notes-crud.git
+   git clone https://github.com/your-username/CRUD-App-using-php.git
